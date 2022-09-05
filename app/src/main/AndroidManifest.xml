@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.kemsky.pokedex">
+    package="com.kemsky.kompas">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
 <!--        android:allowBackup="true"-->
     <application
-        android:name=".PokeApplication"
+        android:name="com.kemsky.kompas.KompasApplication"
         android:icon="@mipmap/ic_launcher"
-        android:theme="@style/Theme.pokedex"
+        android:theme="@style/Theme.kompas"
         android:label="@string/app_name"
         android:largeHeap="true"
         android:roundIcon="@mipmap/ic_launcher_round"
@@ -17,7 +17,7 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="m">
         <activity
-            android:name=".ui.MainActivity"
+            android:name="com.kemsky.kompas.ui.main.MainActivity"
             android:theme="@style/Theme.MaterialComponents.DayNight.NoActionBar.Bridge"
             android:exported="true">
             <intent-filter>
@@ -27,7 +27,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ui.activity.detailpokemon.DetailActivity"
+            android:name="com.kemsky.kompas.ui.detail.DetailActivity"
             android:theme="@style/Theme.MaterialComponents.Light.NoActionBar.Bridge"
             android:exported="false">
         </activity>

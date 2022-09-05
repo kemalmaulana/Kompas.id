@@ -6,19 +6,24 @@
         <entry key="../../../../layout/custom_preview.xml" value="0.19583333333333333" />
         <entry key="app/src/main/res/drawable-xxhdpi/ic_weight.xml" value="0.178" />
         <entry key="app/src/main/res/drawable/custom_ripple_effect.xml" value="0.178" />
+        <entry key="app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.186" />
         <entry key="app/src/main/res/drawable/ic_favorite_24.xml" value="0.2985" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.164" />
         <entry key="app/src/main/res/drawable/ic_pokeball_24.xml" value="0.178" />
         <entry key="app/src/main/res/drawable/ic_straighten_24.xml" value="0.2985" />
         <entry key="app/src/main/res/drawable/ic_unfavorite_24.xml" value="0.2985" />
         <entry key="app/src/main/res/drawable/outline_scale_20.xml" value="0.178" />
-        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.45809783935546877" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.15520833333333334" />
         <entry key="app/src/main/res/layout/fragment_all_pokemon.xml" value="0.13994565217391305" />
         <entry key="app/src/main/res/layout/fragment_fav_pokemon.xml" value="0.13994565217391305" />
         <entry key="app/src/main/res/layout/item_pokemon.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout/item_repo.xml" value="0.46398794923959247" />
+        <entry key="app/src/main/res/layout/item_user.xml" value="0.5059171597633136" />
         <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.16927083333333334" />
         <entry key="app/src/main/res/menu/detail_menu.xml" value="0.3302083333333333" />
         <entry key="app/src/main/res/menu/searchable_menu.xml" value="0.33" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.186" />
       </map>
     </option>
   </component>
